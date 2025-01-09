@@ -1,0 +1,40 @@
+"country","coffeeConsumptionByCountry_totCons_202021","coffeeConsumptionByCountry_totCons_201920","coffeeConsumptionByCountry_totCons_201819","coffeeConsumptionByCountry_totCons_201718","coffeeConsumption_CAGR201718202021"
+"India",1485,1450,1475,1470,0.3
+"United States",26982,26651,27759,26112,1.1
+"Indonesia",5000,4806,4800,4750,1.7
+"Brazil",22400,22000,22200,21997,0.6
+"Russia",4681,4631,4691,4324,2.7
+"Ethiopia",3798,3781,3685,3643,1.4
+"Mexico",2420,2425,2450,2400,0.3
+"Japan",7386,7355,7561,7750,-1.6
+"Egypt",1279,1242,1209,614,27.7
+"Philippines",3312,3250,3300,3180,1.4
+"Vietnam",2700,2650,2600,2500,2.6
+"Turkey",1754,1711,1740,1376,8.4
+"Thailand",1415,1400,1400,1375,1
+"South Africa",655,653,673,638,0.9
+"Colombia",2045,2025,1791,1793,4.5
+"South Korea",2513,2471,2476,2371,2
+"Sudan",702,713,741,605,5.1
+"Uganda",263,254,250,245,2.4
+"Algeria",2131,2110,2150,1911,3.7
+"Argentina",644,621,623,604,2.2
+"Canada",4011,3929,4020,3829,1.6
+"Morocco",780,753,755,740,1.8
+"Ukraine",1379,1379,1379,1252,3.3
+"Peru",250,250,250,250,
+"Saudi Arabia",1253,1241,1266,1275,-0.6
+"Madagascar",377,375,375,365,1.1
+"Ivory Coast",317,317,317,317,
+"Venezuela",1100,1275,1550,1600,-11.7
+"Australia",1962,1939,1961,1854,1.9
+"Taiwan",725,707,703,690,1.6
+"Guatemala",403,393,395,395,0.7
+"Haiti",341,345,345,340,0.1
+"Dominican Republic",383,377,390,390,-0.6
+"Honduras",375,350,375,375,
+"Switzerland",1074,1060,1079,1013,2
+"El Salvador",295,292,300,300,-0.6
+"Lebanon",452,552,621,610,-9.5
+"Norway",924,906,785,729,8.2
+"Costa Rica",353,352,365,353,
