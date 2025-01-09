@@ -6,6 +6,14 @@ This project focuses on cleaning and transforming a large immigration dataset to
 
 The primary operations include converting the dataset from CSV format to Parquet for efficient processing, exploring its structure, and preparing it for integration into the coffee sales predictive modeling pipeline.
 
+Immigration Dataset Sources : 
+
+https://open.canada.ca/data/dataset/b53db033-abe9-40d2-97bc-2bb0909674df
+
+https://worldpopulationreview.com/country-rankings/coffee-consumption-by-country
+
+
+
 *Features*
 
 Data Preparation for Predictive Modeling: Cleans and prepares the immigration dataset for use in building a predictive model for coffee sales.
