@@ -12,7 +12,9 @@ https://open.canada.ca/data/dataset/b53db033-abe9-40d2-97bc-2bb0909674df
 
 https://worldpopulationreview.com/country-rankings/coffee-consumption-by-country
 
+Link to Download the Parquet File - 
 
+https://drive.google.com/file/d/1EmajhHd3DKHdwzL5R5pvWXWBjee2rvEx/view?usp=sharing
 
 *Features*
 
